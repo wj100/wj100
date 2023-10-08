@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1>😄  嘿!很高兴见到你</h1>
 
-<p>欢迎来到我的页面! </br> 大家都叫【羊先生】 来自 <b>Wuhan, China</b>, 目前生活在  <b>Hangzhou, China</b></p>
+<p>欢迎来到我的页面! </br> 我是 one dream 来自 <b>HeFei, China</b>, 目前生活在  <b>Hangzhou, China</b></p>
 
-<p>我的主站【<a href="https://www.vipbic.com/">www.vipbic.com</a>】、【<a href="https://www.itnavs.com/">www.itnavs.com</a>】、【<a href="https://www.bonnenuit.top/">www.bonnenuit.top</a>】、【<a href="https://www.haiwb.com/">www.haiwb.com/</a>】、【<a href="http://search.vipbic.com/">search.vipbic.com/</a>】</p>
+<p>我的主站【<a href="https://www.wangjun.com/">www.wangjun.work</a>】
 
 <h3>常写的语言</h3>
 
@@ -60,20 +60,6 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-admin?style=flat-square&labelColor=343b41"/></td>
       <td><a href="https://github.com/hangjob/vue-admin/blob/master/README.md">文档</a></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/hangjob/vue-vite-admin-ts"><b>vue-bag-admin</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-vite-admin-ts?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/hangjob/docs">文档</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/hangjob/docs"><b>学习笔记</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/docs?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://hangjob.github.io/docs/">链接</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/hangjob/vue-multiple-webpack4-template"><b>vue-multiple-webpack4-template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/hangjob/vue-multiple-webpack4-template?style=flat-square&labelColor=343b41"/></td>
-      <td></td>
-    </tr>
+  
   </tbody>
 </table>

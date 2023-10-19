@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>欢迎来到我的页面! </br> 我是 one dream 来自 <b>HeFei, China</b>, 目前生活在  <b>Hangzhou, China</b></p>
 
-<p>我的主站【<a href="https://www.wangjun.com/">www.wangjun.work</a>】
+<p>我的主站【<a href="https://www.wangjun.work/">www.wangjun.work</a>】
 
 <h3>常写的语言</h3>
 

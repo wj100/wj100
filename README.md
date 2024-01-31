@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <p>我的主站【<a href="http://www.wangjun.work/">www.wangjun.work</a>】
 
+<p>联系方式 VX:ym29595 (请备注 github)</p>
+
 <h3>常写的语言</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)

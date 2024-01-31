@@ -46,19 +46,19 @@ Here are some ideas to get you started:
   <thead align="center">
       <tr border: none;>
       <td><b>🎁 项目</b></td>
-      <td><b>⭐ Stars</b></td>
+      <td><b>⏬ 下载量</b></td>
       <td><b>💬 备注</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/wj100/paging-pdf"><b>paging-pdf</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/npm/dw/paging-pdf.svg"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/paging-pdf.svg"/></td>
       <td><a href="https://github.com/wj100/paging-pdf/blob/master/README.md">文档</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wj100/vue-year-picker"><b>vue-year-picker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/npm/dw/vue-year-picker.svg"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/vue-year-picker.svg"/></td>
       <td><a href="https://github.com/wj100/vue-year-picker/blob/master/README.md">文档</a></td>
     </tr>
   </tbody>

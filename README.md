@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td><a href="https://github.com/wj100/vue-year-picker"><b>vue-year-picker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/wj100/vue-year-picker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dw/vue-year-picker.svg"/></td>
       <td><a href="https://github.com/wj100/vue-year-picker/blob/master/README.md">文档</a></td>
     </tr>
   </tbody>

@@ -67,6 +67,11 @@ Here are some ideas to get you started:
       <td>响应式Echarts解决方案</td>
     </tr>
     <tr>
+      <td><a href="https://www.npmjs.com/package/watermark-pub"><b>watermark-pub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/watermark-pub.svg"/></td>
+      <td>前端明水印</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/wj100/word2html"><b>word2html</b></a></td>
       <td></td>
       <td>为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具</td>

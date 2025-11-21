@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -75,6 +75,26 @@ Here are some ideas to get you started:
       <td><a href="https://github.com/wj100/word2html"><b>word2html</b></a></td>
       <td></td>
       <td>为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/webp-generate-plugin"><b>webp-generate-plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/webp-generate-plugin.svg"/></td>
+      <td>Webpack插件：在构建阶段自动将JPG/PNG图片转换为WebP格式，支持智能删除</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/html-webp-plugin"><b>html-webp-plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/html-webp-plugin.svg"/></td>
+      <td>Webpack插件：将HTML中的&lt;img&gt;标签转换为&lt;picture&gt;，支持WebP并提供降级方案</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/@wj2025/css-webp-plugin"><b>@wj2025/css-webp-plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/@wj2025/css-webp-plugin.svg"/></td>
+      <td>Webpack插件：基于Modernizr风格的.webp/.no-webp类注入WebP背景图规则</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/img-native-lazy-plugin"><b>img-native-lazy-plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/npm/dt/img-native-lazy-plugin.svg"/></td>
+      <td>Webpack插件：为img和source标签添加原生loading='lazy'属性，实现图片懒加载</td>
     </tr>
   </tbody>
 </table>

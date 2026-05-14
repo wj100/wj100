@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://www.npmjs.com/package/paging-pdf"><b>paging-pdf</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/npm/dt/paging-pdf.svg"/></td>
-      <td>企业邮箱年终报告沉淀下来的pdf分页下载工具</td>
+      <td>的pdf分页下载工具</td>
     </tr>
     <tr>
       <td><a href="https://www.npmjs.com/package/vue-year-picker"><b>vue-year-picker</b></a></td>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://github.com/wj100/word2html"><b>word2html</b></a></td>
       <td></td>
-      <td>为企业邮协议文档更迭，基于开源项目进行二次开发的word转html工具</td>
+      <td>基于开源项目进行二次开发的word转html工具</td>
     </tr>
     <tr>
       <td><a href="https://www.npmjs.com/package/webp-generate-plugin"><b>webp-generate-plugin</b></a></td>
